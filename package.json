@@ -1,7 +1,7 @@
 {
 	"name": "n8n-nodes-fb-video-downloader",
 	"version": "0.1.0",
-	"description": "n8n node to get youtube video transcript using yt-transcript package",
+	"description": "n8n node to download Facebook video and reel using @xaviabot/fb-downloader package",
 	"keywords": [
 		"n8n-community-node-package"
 	],
