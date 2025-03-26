@@ -1,8 +1,8 @@
 {
-	"node": "n8n-nodes-base.YtTranscriptTungns",
+	"node": "n8n-nodes-base.FbVideoDownloader",
 	"nodeVersion": "1.0",
 	"codexVersion": "1.0",
-	"categories": ["Miscellaneous"],
+	"categories": ["Marketing & Content"],
 	"resources": {
 		"credentialDocumentation": [
 			{
