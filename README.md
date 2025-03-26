@@ -2,7 +2,7 @@
 
 This is an n8n community node. It lets you use fb-video-downloader in your n8n workflows.
 
-fb-video-downloader is a tool extracting URL and some other metdata from a Facebook video or reel, using `@xaviabot/fb-downloader` npm package
+fb-video-downloader is a tool extracting URL and some other metdata from a Facebook video or reel, using [@xaviabot/fb-downloader](https://github.com/xaviabot/fb-downloader) npm package
 
 Example of response data:
 
